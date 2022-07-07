@@ -1,0 +1,17 @@
+{
+  "name": "hello-world",
+  "scripts": {
+    "start": "imba -w server.imba",
+    "build": "imba build server.imba"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "imba": "^2.0.0-alpha.208"
+  },
+  "repository": "ladetunji/hello-world",
+  "description": "my first imba project",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ladetunji/hello-world",
+  "author": "Author Name (https://github.com/ladetunji)",
+  "license": "ISC"
+}
